@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 seaborn
+plotly.graph_objects
